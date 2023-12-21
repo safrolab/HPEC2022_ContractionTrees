@@ -1,4 +1,4 @@
-# HPEC2022_ContractionTrees
+# Constructing Optimal Contraction Trees for Tensor Network Quantum Circuit Simulation
 Repository for submission to IEEE HPEC 2022
 
 Ibrahim, Cameron, Danylo Lykov, Zichang He, Yuri Alexeev, and Ilya Safro. "Constructing Optimal Contraction Trees for Tensor Network Quantum Circuit Simulation." In 2022 IEEE High Performance Extreme Computing Conference (HPEC), pp. 1-8. IEEE, 2022.
